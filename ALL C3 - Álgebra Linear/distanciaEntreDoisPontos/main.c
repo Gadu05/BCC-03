@@ -10,13 +10,13 @@ int main(){
     setlocale(LC_ALL, "Portuguese");
 
     int dimensao;
-    printf("Digite a dimens„o dos pontos: ");
+    printf("Digite a dimens√£o dos pontos: ");
     scanf("%d", &dimensao);
 
     fflush(stdin);
 
     if (dimensao <= 0){
-        printf("Digite uma dimens„o v·lida.\n");
+        printf("Digite uma dimens√£o v√°lida.\n");
         getchar();
         return 0;
     }
@@ -35,7 +35,7 @@ int main(){
 
     fflush(stdin);
 
-    printf("A dist‚ncia entre os pontos È de aproximadamente ");
+    printf("A dist√¢ncia entre os pontos √© de aproximadamente ");
     printf("%.2lf\n", distahciaAB(pA, pB, dimensao));
 
     getchar();
