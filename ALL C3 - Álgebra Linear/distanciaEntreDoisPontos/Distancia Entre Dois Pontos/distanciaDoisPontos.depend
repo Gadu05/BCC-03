@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678459498 source:c:\users\aluno\desktop\distanciadoispontos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
