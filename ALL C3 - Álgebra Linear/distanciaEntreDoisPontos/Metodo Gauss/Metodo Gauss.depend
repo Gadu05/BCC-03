@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1680273207 source:d:\all c3\metodo gauss\main.c
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-	<locale.h>
-
