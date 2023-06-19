@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687182886 source:c:\users\gadu\downloads\led - projeto\projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
